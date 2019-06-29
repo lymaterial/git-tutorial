@@ -1,6 +1,6 @@
-#Git tutorial
+#git tutorial
 #git tutorial
 
 -feature-A
--fix B
-
+-fix-B
+-feature-C
